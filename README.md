@@ -38,7 +38,8 @@ Pengujian 1 – Berhasil
 - Total: Rp30.000
 - Pembayaran: Rp50.000
 - Kembalian: Rp20.000
-Pengujian 2 – 
+  
+ Pengujian 2 – 
 - Es Jeruk: Rp12.000 × 3
 - Total: Rp36.000
 - Pembayaran: Rp60.000
