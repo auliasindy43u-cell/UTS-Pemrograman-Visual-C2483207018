@@ -47,8 +47,7 @@ Pengujian 2 –
 
 **1. Tampilan Aplikasi**
 
-![Tampilan Aplikasi](<img width="440" height="227" alt="Screenshot 2026-11-18 003659" src="https://github.com/user-attachments/assets/0802b91c-0e05-4395-aa6a-499d058775d4" />
-)
+![Tampilan Aplikasi](https://github.com/auliasindy43u-cell/UTS-Pemrograman-Visual-C2483207018/blob/main/Screenshot%202026-11-18%20004056.png)
 
 **2. Hasil Transaksi Berhasil**
 
