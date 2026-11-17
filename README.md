@@ -47,11 +47,11 @@ Pengujian 2 –
 
 **1. Tampilan Aplikasi**
 
-![Tampilan Aplikasi]([https://github.com/auliasindy43u-cell/UTS-Pemrograman-Visual-C2483207018/blob/main/Screenshot%202026-11-18%20003659.png](https://github.com/auliasindy43u-cell/UTS-Pemrograman-Visual-C2483207018/blob/main/Screenshot%202026-11-18%20003659.png))
+![Tampilan Aplikasi](https://github.com/auliasindy43u-cell/UTS-Pemrograman-Visual-C2483207018/blob/main/Screenshot%202026-11-18%20003659.png)
 
 **2. Hasil Transaksi Total Harga Es jeruk**
 
-![Hasil Transaksi]([https://github.com/auliasindy43u-cell/UTS-Pemrograman-Visual-C2483207018/blob/main/Screenshot%202026-11-18%20004056.png](https://github.com/auliasindy43u-cell/UTS-Pemrograman-Visual-C2483207018/blob/main/Screenshot%202026-11-18%20004056.png))
+![Hasil Transaksi](https://github.com/auliasindy43u-cell/UTS-Pemrograman-Visual-C2483207018/blob/main/Screenshot%202026-11-18%20004056.png)
 
 **3. Hasil Transaksi Pembayaran dan Kembalian Nasi Goreng **
 
