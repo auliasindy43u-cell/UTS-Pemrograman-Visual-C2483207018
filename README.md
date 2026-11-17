@@ -32,10 +32,16 @@ JFrame,JLabel,JTextField,JButton,JOptionPane,ActionListener.
 -Klik tombol Hitung untuk menghitung total harga.
 -Klik tombol Bayar untuk memproses pembayaran dan melihat uang kembalian.
 -Klik tombol Reset untuk mengosongkan seluruh kolom.
-### Tabel Hasil Pengujian
-No.	Nama Barang	Harga Satuan	Jumlah	Total Harga	Uang Pembayaran	Hasil
-1	Nasi Goreng	Rp15.000	2	Rp30.000	Rp50.000	Kembalian Rp20.000
-2	Es Jeruk	Rp12.000	3	Rp36.000	Rp60.000	Kembalian belum ditampilkan
+### Hasil Pengujian
+Pengujian 1 – Berhasil
+- Nasi Goreng: Rp15.000 × 2
+- Total: Rp30.000
+- Pembayaran: Rp50.000
+- Kembalian: Rp20.000
+Pengujian 2 – 
+- Es Jeruk: Rp12.000 × 3
+- Total: Rp36.000
+- Pembayaran: Rp60.000
 
 ### Screenshot Aplikasi
 
