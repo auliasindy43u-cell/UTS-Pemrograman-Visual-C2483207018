@@ -1,4 +1,4 @@
-<img width="440" height="227" alt="Screenshot 2026-11-18 003659" src="https://github.com/user-attachments/assets/2bb06d1a-1268-45f8-a004-8ef99dcc6cfe" /># UTS Pemrograman Visual
+
 ## Aplikasi Kasir Kantin Kampus
 
 **Nama:** [Sindy Aulia]  
