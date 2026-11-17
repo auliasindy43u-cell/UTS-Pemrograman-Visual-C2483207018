@@ -1,4 +1,3 @@
-
 ## Aplikasi Kasir Kantin Kampus
 
 **Nama:** [Sindy Aulia]  
@@ -21,6 +20,7 @@ Aplikasi Kasir Kantin Kampus dibuat menggunakan Java Swing pada Apache NetBeans.
 JFrame,JLabel,JTextField,JButton,JOptionPane,ActionListener.
 
 ### Cara Menjalankan Aplikasi Di NetBeans
+
 -Buka aplikasi Apache NetBeans.
 -Pilih menu File → Open Project.
 -Pilih folder proyek KasirKantinKampus.
@@ -33,6 +33,7 @@ JFrame,JLabel,JTextField,JButton,JOptionPane,ActionListener.
 -Klik tombol Bayar untuk memproses pembayaran dan melihat uang kembalian.
 -Klik tombol Reset untuk mengosongkan seluruh kolom.
 ### Hasil Pengujian
+
 Pengujian 1 – Berhasil
 - Nasi Goreng: Rp15.000 × 2
 - Total: Rp30.000
