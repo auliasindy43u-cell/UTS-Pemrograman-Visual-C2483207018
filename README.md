@@ -47,14 +47,12 @@ Pengujian 2 –
 
 **1. Tampilan Aplikasi**
 
-![Tampilan Aplikasi](https://github.com/auliasindy43u-cell/UTS-Pemrograman-Visual-C2483207018/blob/main/Screenshot%202026-11-18%20004056.png)
+![Tampilan Aplikasi]([https://github.com/auliasindy43u-cell/UTS-Pemrograman-Visual-C2483207018/blob/main/Screenshot%202026-11-18%20003659.png](https://github.com/auliasindy43u-cell/UTS-Pemrograman-Visual-C2483207018/blob/main/Screenshot%202026-11-18%20003659.png))
 
-**2. Hasil Transaksi Berhasil**
+**2. Hasil Transaksi Total Harga Es jeruk**
 
-![Hasil Transaksi](<img width="421" height="241" alt="Screenshot 2026-11-18 004056" src="https://github.com/user-attachments/assets/31f75ed2-85d6-45ca-bb07-2837c2fe5788" />
-)
+![Hasil Transaksi]([https://github.com/auliasindy43u-cell/UTS-Pemrograman-Visual-C2483207018/blob/main/Screenshot%202026-11-18%20004056.png](https://github.com/auliasindy43u-cell/UTS-Pemrograman-Visual-C2483207018/blob/main/Screenshot%202026-11-18%20004056.png))
 
-**3. Pembayaran Kurang**
+**3. Hasil Transaksi Pembayaran dan Kembalian Nasi Goreng **
 
-![Pembayaran Kurang](<img width="427" height="275" alt="Screenshot 2026-11-18 004007" src="https://github.com/user-attachments/assets/eb894bfe-a34b-4270-be54-4961e3c1c3cf" />
-)
+![Pembayaran Kurang](https://github.com/auliasindy43u-cell/UTS-Pemrograman-Visual-C2483207018/blob/main/Screenshot%202026-11-18%20004007.png)
